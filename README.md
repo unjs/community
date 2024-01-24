@@ -4,7 +4,9 @@ This repository holds discussions regarding the UnJS ecosystem and community in 
 
 ## 🔖 Useful links
 
+- [Website](https://unjs.io)
 - [Governance Notes](https://github.com/unjs/governance)
+- [Submiting your ideas/packages](https://github.com/unjs/community/discussions/1)
 
 ## ⁉️ Who are we
 
@@ -12,7 +14,7 @@ This repository holds discussions regarding the UnJS ecosystem and community in 
 
 Pooya Parsa ([@pi0](https://github.com/pi0)) project lead and maintainer of many packages.
 
-### Content and Learning
+### Website and Learning
 
 Estéban Soubiran ([@Barbapapazes](https://github.com/Barbapapazes)) 
 
@@ -28,4 +30,4 @@ Project maintainers are often original authors and manage the codebase of one or
 ### Community Team
 
 The community team includes valuable members who are directly involved with the triage and maintenance across the ecosystem.
-You can find a current list of this team [here](https://github.com/orgs/unjs/people)
+You can find a current list of this team [here](https://github.com/orgs/unjs/people).
